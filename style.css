@@ -1,0 +1,11 @@
+.profile-img{
+    border-radius: 50%;
+    border-color: black;
+    border: 3px solid lightseagreen;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
